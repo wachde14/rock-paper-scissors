@@ -1,0 +1,12 @@
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\bin\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.exe
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\bin\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.deps.json
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\bin\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.runtimeconfig.json
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\bin\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.runtimeconfig.dev.json
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\bin\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.dll
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\bin\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.pdb
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.AssemblyInfoInputs.cache
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.AssemblyInfo.cs
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.csproj.CoreCompileInputs.cache
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.dll
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.pdb
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.genruntimeconfig.cache

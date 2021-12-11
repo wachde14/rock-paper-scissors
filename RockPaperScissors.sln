@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissorsFirstRefactor", "RockPaperScissorsFirstRefactor\RockPaperScissorsFirstRefactor.csproj", "{0AA8E7E8-AA14-46E0-BFBF-034BEFF96E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissorsFirstRefactor", "RockPaperScissorsFirstRefactor\RockPaperScissorsFirstRefactor.csproj", "{0AA8E7E8-AA14-46E0-BFBF-034BEFF96E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissorsStudentsVersion", "RockPaperScissorsStudentsVersion\RockPaperScissorsStudentsVersion.csproj", "{E60AB68B-D736-48D4-A519-120390BC2DD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0AA8E7E8-AA14-46E0-BFBF-034BEFF96E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AA8E7E8-AA14-46E0-BFBF-034BEFF96E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AA8E7E8-AA14-46E0-BFBF-034BEFF96E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60AB68B-D736-48D4-A519-120390BC2DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60AB68B-D736-48D4-A519-120390BC2DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60AB68B-D736-48D4-A519-120390BC2DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60AB68B-D736-48D4-A519-120390BC2DD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

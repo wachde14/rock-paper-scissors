@@ -16,7 +16,6 @@ C:\Git\RockPaperScissors\RockPaperScissorsFirstRefactor\bin\Debug\netcoreapp3.1\
 C:\Git\RockPaperScissors\RockPaperScissorsFirstRefactor\bin\Debug\netcoreapp3.1\RockPaperScissorsFirstRefactor.runtimeconfig.dev.json
 C:\Git\RockPaperScissors\RockPaperScissorsFirstRefactor\bin\Debug\netcoreapp3.1\RockPaperScissorsFirstRefactor.dll
 C:\Git\RockPaperScissors\RockPaperScissorsFirstRefactor\bin\Debug\netcoreapp3.1\RockPaperScissorsFirstRefactor.pdb
-C:\Git\RockPaperScissors\RockPaperScissorsFirstRefactor\obj\Debug\netcoreapp3.1\RockPaperScissorsFirstRefactor.csprojAssemblyReference.cache
 C:\Git\RockPaperScissors\RockPaperScissorsFirstRefactor\obj\Debug\netcoreapp3.1\RockPaperScissorsFirstRefactor.AssemblyInfoInputs.cache
 C:\Git\RockPaperScissors\RockPaperScissorsFirstRefactor\obj\Debug\netcoreapp3.1\RockPaperScissorsFirstRefactor.AssemblyInfo.cs
 C:\Git\RockPaperScissors\RockPaperScissorsFirstRefactor\obj\Debug\netcoreapp3.1\RockPaperScissorsFirstRefactor.csproj.CoreCompileInputs.cache

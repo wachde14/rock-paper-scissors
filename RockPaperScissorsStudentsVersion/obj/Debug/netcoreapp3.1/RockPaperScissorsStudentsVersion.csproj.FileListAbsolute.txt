@@ -10,3 +10,4 @@ C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.
 C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.dll
 C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.pdb
 C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.genruntimeconfig.cache
+C:\Git\RockPaperScissors\RockPaperScissorsStudentsVersion\obj\Debug\netcoreapp3.1\RockPaperScissorsStudentsVersion.csprojAssemblyReference.cache
